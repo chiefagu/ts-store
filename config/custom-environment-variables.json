@@ -1,0 +1,11 @@
+{
+  "baseUrl": "TS_STORE_BASEURL",
+  "port": "TS_STORE_PORT",
+  "environment": "NODE_ENV",
+  "dbUri": "TS_STORE_DB_URI",
+  "salt": "TS_STORE_SALT",
+  "accessKey": "TS_STORE_ACCESS_KEY",
+  "refreshKey": "TS_STORE_REFRESH_KEY",
+  "accessTokenTtl": "TS_STORE_ACCESS_TOKEN_TTL",
+  "refreshTokenTtl": "TS_STORE_REFRESH_TOKEN_TTL"
+}

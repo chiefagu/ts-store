@@ -1,0 +1,11 @@
+{
+  "baseUrl": "",
+  "port": "",
+  "environment": "",
+  "dbUri": "",
+  "salt": "",
+  "accessKey": "",
+  "refreshKey": "",
+  "accessTokenTtl": "",
+  "refreshTokenTtl": ""
+}
